@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhdharris&label=Profile%20views&color=0e75b6&style=flat" alt="muhdharris" /> </p>
 
 Project 👨‍💻
-- [https://github.com/muhdharris/WebRTCtest](https://github.com/muhdharris/WebRTCtest)
+- [WebRTC](https://github.com/muhdharris/WebRTCtest)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
