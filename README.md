@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhdharris&label=Profile%20views&color=0e75b6&style=flat" alt="muhdharris" /> </p>
 
-🔭 Currently working on [Login Page](https://github.com/muhdharris/LoginPage)
+🔭 I’m currently working on [Login Page](https://github.com/muhdharris/LoginPage)
 
 🌱 I’m currently learning **Ruby**
 
 👨‍💻 Project 
 - [WebRTC](https://github.com/muhdharris/WebRTCtest)
 - [WebScraper](https://github.com/muhdharris/WebScraper)
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
