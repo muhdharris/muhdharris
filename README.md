@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Harris</h1>
 <h3 align="center">A student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhdharris&label=Profile%20views&color=0e75b6&style=flat" alt="muhdharris" /> </p>
-
 🔭 I’m currently working on [Login Page](https://github.com/muhdharris/LoginPage)
 
 🌱 I’m currently learning **Ruby**
