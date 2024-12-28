@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harris Do</h1>
+<h1 align="center">Hi 👋, I'm Harris Razainuddin</h1>
 <h3 align="center">Final Year Computer System And Network Student at University of Malaya</h3>
 
 - 📫 How to reach me **muhdharris40@gmail.com**
