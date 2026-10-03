@@ -1,107 +1,54 @@
-# Hi there! 👋 I'm Harris Razainuddin
+# Harris Razainuddin
 
-<div align="center">
-  
-  ### 🎓 Final Year Computer Systems & Networks Student | University of Malaya
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Systems+%26+Networks+Enthusiast;Cloud+Computing+Explorer;Open+Source+Contributor;Always+Learning+New+Tech!)](https://git.io/typing-svg)
-  
-</div>
+**Network & Security Engineer** · CCNA (×3) · CyberOps Associate · ~10 years of Linux,
+and about a year of it professionally.
 
----
+Currently at **InnoSphere Technologies Sdn. Bhd.**, previously an intern at
+**Wevo System Sdn. Bhd.**
 
-## 🚀 About Me
-
-- 🔭 Currently working on **network security projects** and **cloud infrastructure**
-- 🌱 Learning **cybersecurity**, **DevOps practices**, and **distributed systems**
-- 👯 Looking to collaborate on **open source projects** and **networking solutions**
-- 💬 Ask me about **system administration**, **network protocols**, and **cloud technologies**
-- 📫 Reach me at: **muhdharris40@gmail.com**
-- ⚡ Fun fact: I love optimizing systems and finding elegant solutions to complex problems!
+📍 Kuala Lumpur, Malaysia · ✉️ muhdharris40@gmail.com · 💼
+[linkedin.com/in/muhdharris](https://linkedin.com/in/muhdharris) ·
+[muhdharris.github.io](https://muhdharris.github.io)
 
 ---
 
-## 🛠️ Tech Stack
+## What I do
 
-### Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-</p>
+Network and security engineering — configuration, diagnosis, and troubleshooting for
+systems that fail in ways nobody predicted. On the security side: firewall
+configuration, ACLs, VPN, IDS/IPS, and incident response.
 
-### Web Technologies
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-</p>
+## Certifications
 
-### Cloud & DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
-</p>
+| Certification | Achieved |
+|---|---|
+| CCNA — Introduction to Networks | Jun 2022 |
+| CCNA — Switching, Routing & Wireless Essentials | Jul 2023 |
+| CCNA — Enterprise Networking, Security & Automation | Jul 2023 |
+| CyberOps Associate | Jun 2024 |
 
-### Systems & Hardware
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/>
-</p>
+## Selected work
 
----
+**[muhdharris.github.io](https://muhdharris.github.io)** — portfolio site. Hand-written
+HTML and CSS, no template, no framework.
 
-## 📊 GitHub Stats
+**Home infrastructure** — a two-node Proxmox cluster with sixteen containers, run as
+a working testbed rather than a hobby. Two independent hardware faults could take it
+offline while presenting identically from the outside; one of them needed a second
+diagnosis after the first fix failed to hold.
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-  
-</div>
+**[Website-in-Docker](https://github.com/muhdharris/Website-in-Docker)** ·
+**[cinemaProject](https://github.com/muhdharris/cinemaProject)** ·
+**[PortScanner](https://github.com/muhdharris/PortScanner)** ·
+**[WebScraper](https://github.com/muhdharris/WebScraper)** ·
+**[WebRTCtest](https://github.com/muhdharris/WebRTCtest)**
 
----
+## Stack
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
+Proxmox VE · Docker · Linux · TCP/IP · OSPF · EIGRP · VLANs · subnetting · NAT ·
+firewalls · ACLs · VPN · IDS/IPS · AWS (VPC, cloud firewall) · Wireshark · Nmap ·
+GNS3 · Packet Tracer · Java · Python · JavaScript · MySQL
 
----
+## Languages
 
-## 🔥 Current Focus
-
-- 🎯 **Final Year Project**: Working on advanced network security implementation
-- 📚 **Certifications**: Pursuing AWS Solutions Architect certification
-- 🌐 **Open Source**: Contributing to networking and cybersecurity projects
-- 💼 **Career**: Seeking opportunities in network engineering and cloud infrastructure
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/muhdharris" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:muhdharris40@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-
-<div align="center">
-  
-  ### 💡 "The best way to predict the future is to create it." 
-  
-  ⭐️ From [Harris Razainuddin](https://github.com/yourusername)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
-  
-</div>
+Malay — native · English — fluent
