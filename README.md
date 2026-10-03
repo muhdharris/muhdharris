@@ -1,7 +1,7 @@
 # Harris Razainuddin
 
-**Network & Security Engineer** · CCNA (×3) · CyberOps Associate · ~10 years of Linux,
-and about a year of it professionally.
+**Network & Security Engineer** · CCNA (×3) · CyberOps Associate · ~10 months
+professional experience.
 
 Currently at **InnoSphere Technologies Sdn. Bhd.**, previously an intern at
 **Wevo System Sdn. Bhd.**
