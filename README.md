@@ -32,10 +32,11 @@ configuration, ACLs, VPN, IDS/IPS, and incident response.
 **[muhdharris.github.io](https://muhdharris.github.io)** — portfolio site. Hand-written
 HTML and CSS, no template, no framework.
 
-**Home infrastructure** — a two-node Proxmox cluster with sixteen containers, run as
-a working testbed rather than a hobby. Two independent hardware faults could take it
-offline while presenting identically from the outside; one of them needed a second
-diagnosis after the first fix failed to hold.
+**[[homelab]](https://github.com/muhdharris/homelab)** — a two-node Proxmox cluster
+with sixteen containers, run as a working testbed rather than a hobby. Two independent
+hardware faults could take it offline while presenting identically from the outside;
+one of them needed a second diagnosis after the first fix failed to hold. Both are
+documented in [troubleshooting/](https://github.com/muhdharris/homelab/tree/main/troubleshooting).
 
 **[Website-in-Docker](https://github.com/muhdharris/Website-in-Docker)** ·
 **[cinemaProject](https://github.com/muhdharris/cinemaProject)** ·
