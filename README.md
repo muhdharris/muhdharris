@@ -14,6 +14,10 @@ traceroute to muhdharris (Kuala Lumpur), 5 hops max
  5  homelab                   always on   two Proxmox nodes, 16 containers
 ```
 
+## Homelab
+
+<img src="infra-topology.svg" alt="Homelab topology: two Proxmox nodes, a Docker VM with 16 containers and an OpenMediaVault NAS VM sharing storage over NFS and SMB" width="640">
+
 ## Certifications
 
 - CCNA: Introduction to Networks (Jun 2022)
