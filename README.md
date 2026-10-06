@@ -25,9 +25,9 @@ link-flap auto-recovery. Root cause not established; there was no baseline
 configuration to compare against. There's a playable version on the
 [portfolio](https://muhdharris.github.io): "Find the loop".
 
-**Two hardware faults in my homelab that looked identical from outside.** Both took the
-cluster offline the same way. One needed a second diagnosis after the first fix didn't
-hold. Both are written up in
+**Two hardware faults in my homelab that looked identical from outside.** Either could
+take the cluster offline, and from the network side they were indistinguishable. One
+needed a second diagnosis after the first fix didn't hold. Both are written up in
 [homelab/troubleshooting](https://github.com/muhdharris/homelab/tree/main/troubleshooting).
 
 ## Certifications
