@@ -1,7 +1,7 @@
 # Harris Razainuddin
 
-Network & Security Engineer in Kuala Lumpur. Firewalls, switching, and the faults
-that don't announce themselves.
+Network & Security Engineer in Kuala Lumpur. Firewalls, switching, and the
+troubleshooting in between.
 
 ```
 $ traceroute muhdharris
@@ -13,22 +13,6 @@ traceroute to muhdharris (Kuala Lumpur), 5 hops max
  4  innosphere-technologies   2026-       network & security engineer
  5  homelab                   always on   two Proxmox nodes, 16 containers
 ```
-
-## Fault log
-
-**STP loop during a Huawei switch refresh.** A Layer 2 loop formed with STP already
-running, and the traffic took the firewall down, so the whole network went offline, not
-one segment. I found the switch by disconnecting switches one at a time; the loop was
-gone within hours. Afterwards I added protections on my own initiative so one device
-can't do this again: BPDU filtering and edge ports on access ports, DHCP snooping, and
-link-flap auto-recovery. Root cause not established; there was no baseline
-configuration to compare against. There's a playable version on the
-[portfolio](https://muhdharris.github.io): "Find the loop".
-
-**Two hardware faults in my homelab that looked identical from outside.** Either could
-take the cluster offline, and from the network side they were indistinguishable. One
-needed a second diagnosis after the first fix didn't hold. Both are written up in
-[homelab/troubleshooting](https://github.com/muhdharris/homelab/tree/main/troubleshooting).
 
 ## Certifications
 
