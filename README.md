@@ -42,6 +42,7 @@ PROTOCOL  STATE  SERVICE
 89        open   ospf
 
 Also open: VLANs, NAT, ACLs, firewalls, VPN, IDS/IPS, subnetting
+Cloud:     AWS (coursework)
 Tools:     Wireshark, Nmap, GNS3, Packet Tracer
 Code:      Python, Java, JavaScript
 ```
