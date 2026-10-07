@@ -31,9 +31,10 @@ traceroute to muhdharris (Kuala Lumpur), 5 hops max
   and CSS, no template, no framework.
 - [homelab](https://github.com/muhdharris/homelab): a two-node Proxmox cluster with a
   Docker media stack and an OMV NAS, run as a working testbed.
+- [cinemaProject](https://github.com/muhdharris/cinemaProject): the first coding project
+  I wrote during my degree. A Java cinema booking application.
 - Smaller projects:
   [Website-in-Docker](https://github.com/muhdharris/Website-in-Docker) ·
-  [cinemaProject](https://github.com/muhdharris/cinemaProject) ·
   [PortScanner](https://github.com/muhdharris/PortScanner) ·
   [WebScraper](https://github.com/muhdharris/WebScraper) ·
   [WebRTCtest](https://github.com/muhdharris/WebRTCtest)
