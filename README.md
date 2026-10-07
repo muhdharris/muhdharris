@@ -3,9 +3,7 @@
 Network & Security Engineer in Kuala Lumpur. Firewalls, switching, and the
 troubleshooting in between.
 
-Each section below is written as a network command, with a short description under it.
-
-## `traceroute muhdharris`
+Each section is a short description, then the network command it is written as.
 
 School, university, work, in order.
 
@@ -24,8 +22,6 @@ traceroute to muhdharris (Kuala Lumpur), 6 hops max
 destination reached
 ```
 
-## `nmap -sV muhdharris`
-
 Each open port is something I run or work with.
 
 ```
@@ -41,8 +37,6 @@ PORT      STATE   SERVICE    VERSION
 8006/tcp  open    proxmox    Proxmox VE, two-node cluster
 9443/tcp  open    portainer  Docker, 16 containers
 ```
-
-## `nmap -sO muhdharris`
 
 The protocols, techniques and tools I use.
 
@@ -61,8 +55,6 @@ Tools:     Wireshark, Nmap, GNS3, Packet Tracer
 Code:      Python, Java, JavaScript
 ```
 
-## `show ip route`
-
 Where each project lives and what it is built with.
 
 ```
@@ -80,8 +72,6 @@ $ show ip route
 | [WebScraper](https://github.com/muhdharris/WebScraper) | Python | a small web scraper |
 | [WebRTCtest](https://github.com/muhdharris/WebRTCtest) | JavaScript | WebRTC peer connection and connectivity tests |
 
-## `show topology`
-
 How my home network is laid out.
 
 ```
@@ -89,8 +79,6 @@ $ show topology
 ```
 
 <img src="infra-topology.svg" alt="Homelab topology: two Proxmox nodes, a Docker VM with 16 containers and an OpenMediaVault NAS VM sharing storage over NFS and SMB" width="640">
-
-## `show certifications`
 
 What I have completed, with the month.
 
@@ -104,8 +92,6 @@ C   2023-07  Switching, Routing & Wireless Essentials
 C   2023-07  Enterprise Networking, Security & Automation
 S   2024-06  CyberOps Associate
 ```
-
-## `whois muhdharris`
 
 Where I am, languages, and how to reach me.
 
