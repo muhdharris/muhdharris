@@ -3,11 +3,11 @@
 Network & Security Engineer in Kuala Lumpur. Firewalls, switching, and the
 troubleshooting in between.
 
-Each section below is written as a network command, with a plain description under it.
+Each section below is written as a network command, with a short description under it.
 
 ## `traceroute muhdharris`
 
-Career path: school, university, work, in order.
+School, university, work, in order.
 
 ```
 $ traceroute muhdharris
@@ -26,7 +26,7 @@ destination reached
 
 ## `nmap -sV muhdharris`
 
-Skills, platforms and services: each open port is something I run or work with.
+Each open port is something I run or work with.
 
 ```
 $ nmap -sV muhdharris
@@ -44,7 +44,7 @@ PORT      STATE   SERVICE    VERSION
 
 ## `nmap -sO muhdharris`
 
-Skills, protocols and tools: the protocols, techniques and tools I use.
+The protocols, techniques and tools I use.
 
 ```
 $ nmap -sO muhdharris
@@ -63,7 +63,7 @@ Code:      Python, Java, JavaScript
 
 ## `show ip route`
 
-Projects: where each project lives and what it is built with.
+Where each project lives and what it is built with.
 
 ```
 $ show ip route
@@ -82,7 +82,7 @@ $ show ip route
 
 ## `show topology`
 
-Homelab diagram: how my home network is laid out.
+How my home network is laid out.
 
 ```
 $ show topology
@@ -92,7 +92,7 @@ $ show topology
 
 ## `show certifications`
 
-Certifications: what I have completed, with the month.
+What I have completed, with the month.
 
 ```
 $ show certifications
@@ -107,7 +107,7 @@ S   2024-06  CyberOps Associate
 
 ## `whois muhdharris`
 
-Contact: where I am, languages, and how to reach me.
+Where I am, languages, and how to reach me.
 
 ```
 $ whois muhdharris
