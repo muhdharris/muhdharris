@@ -3,7 +3,11 @@
 Network & Security Engineer in Kuala Lumpur. Firewalls, switching, and the
 troubleshooting in between.
 
-## `traceroute muhdharris`
+Each section below has a plain title, with the network command it is written as.
+
+## Career path
+
+`traceroute muhdharris`: school, university, work, in order.
 
 ```
 traceroute to muhdharris (Kuala Lumpur), 6 hops max
@@ -18,7 +22,9 @@ traceroute to muhdharris (Kuala Lumpur), 6 hops max
 destination reached
 ```
 
-## `nmap -sV muhdharris`
+## Skills: platforms and services
+
+`nmap -sV muhdharris`: each open port is something I run or work with.
 
 ```
 PORT      STATE   SERVICE    VERSION
@@ -31,6 +37,10 @@ PORT      STATE   SERVICE    VERSION
 8006/tcp  open    proxmox    Proxmox VE, two-node cluster
 9443/tcp  open    portainer  Docker, 16 containers
 ```
+
+## Skills: protocols and tools
+
+`nmap -sO muhdharris`: the protocols, techniques and tools I use.
 
 ```
 $ nmap -sO muhdharris
@@ -47,7 +57,9 @@ Tools:     Wireshark, Nmap, GNS3, Packet Tracer
 Code:      Python, Java, JavaScript
 ```
 
-## `show ip route`
+## Projects
+
+`show ip route`: where each project lives and what it is built with.
 
 | Destination | Via | Note |
 |---|---|---|
@@ -60,11 +72,15 @@ Code:      Python, Java, JavaScript
 | [WebScraper](https://github.com/muhdharris/WebScraper) | Python | a small web scraper |
 | [WebRTCtest](https://github.com/muhdharris/WebRTCtest) | JavaScript | WebRTC peer connection and connectivity tests |
 
-## `show topology`
+## Homelab diagram
+
+`show topology`: how my home network is laid out.
 
 <img src="infra-topology.svg" alt="Homelab topology: two Proxmox nodes, a Docker VM with 16 containers and an OpenMediaVault NAS VM sharing storage over NFS and SMB" width="640">
 
-## `show certifications`
+## Certifications
+
+`show certifications`: what I have completed, with the month.
 
 ```
 Codes: C - CCNA, S - security
@@ -75,7 +91,9 @@ C   2023-07  Enterprise Networking, Security & Automation
 S   2024-06  CyberOps Associate
 ```
 
-## `whois muhdharris`
+## Contact
+
+`whois muhdharris`: where I am, languages, and how to reach me.
 
 ```
 location:   Kuala Lumpur, Malaysia
