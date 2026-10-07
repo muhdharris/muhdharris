@@ -3,13 +3,15 @@
 Network & Security Engineer in Kuala Lumpur. Firewalls, switching, and the
 troubleshooting in between.
 
-Each section below has a plain title, with the network command it is written as.
+Each section below is written as a network command, with a plain description under it.
 
-## Career path
+## `traceroute muhdharris`
 
-`traceroute muhdharris`: school, university, work, in order.
+Career path: school, university, work, in order.
 
 ```
+$ traceroute muhdharris
+
 traceroute to muhdharris (Kuala Lumpur), 6 hops max
 
  1  sms-tengku-muhammad-faris-petra  2015-2019  SPM
@@ -22,11 +24,13 @@ traceroute to muhdharris (Kuala Lumpur), 6 hops max
 destination reached
 ```
 
-## Skills: platforms and services
+## `nmap -sV muhdharris`
 
-`nmap -sV muhdharris`: each open port is something I run or work with.
+Skills, platforms and services: each open port is something I run or work with.
 
 ```
+$ nmap -sV muhdharris
+
 PORT      STATE   SERVICE    VERSION
 22/tcp    open    ssh        Linux administration (Debian, Ubuntu)
 23/tcp    closed  telnet     no, thank you
@@ -38,9 +42,9 @@ PORT      STATE   SERVICE    VERSION
 9443/tcp  open    portainer  Docker, 16 containers
 ```
 
-## Skills: protocols and tools
+## `nmap -sO muhdharris`
 
-`nmap -sO muhdharris`: the protocols, techniques and tools I use.
+Skills, protocols and tools: the protocols, techniques and tools I use.
 
 ```
 $ nmap -sO muhdharris
@@ -57,9 +61,13 @@ Tools:     Wireshark, Nmap, GNS3, Packet Tracer
 Code:      Python, Java, JavaScript
 ```
 
-## Projects
+## `show ip route`
 
-`show ip route`: where each project lives and what it is built with.
+Projects: where each project lives and what it is built with.
+
+```
+$ show ip route
+```
 
 | Destination | Via | Note |
 |---|---|---|
@@ -72,17 +80,23 @@ Code:      Python, Java, JavaScript
 | [WebScraper](https://github.com/muhdharris/WebScraper) | Python | a small web scraper |
 | [WebRTCtest](https://github.com/muhdharris/WebRTCtest) | JavaScript | WebRTC peer connection and connectivity tests |
 
-## Homelab diagram
+## `show topology`
 
-`show topology`: how my home network is laid out.
+Homelab diagram: how my home network is laid out.
+
+```
+$ show topology
+```
 
 <img src="infra-topology.svg" alt="Homelab topology: two Proxmox nodes, a Docker VM with 16 containers and an OpenMediaVault NAS VM sharing storage over NFS and SMB" width="640">
 
-## Certifications
+## `show certifications`
 
-`show certifications`: what I have completed, with the month.
+Certifications: what I have completed, with the month.
 
 ```
+$ show certifications
+
 Codes: C - CCNA, S - security
 
 C   2022-06  Introduction to Networks
@@ -91,11 +105,13 @@ C   2023-07  Enterprise Networking, Security & Automation
 S   2024-06  CyberOps Associate
 ```
 
-## Contact
+## `whois muhdharris`
 
-`whois muhdharris`: where I am, languages, and how to reach me.
+Contact: where I am, languages, and how to reach me.
 
 ```
+$ whois muhdharris
+
 location:   Kuala Lumpur, Malaysia
 languages:  Malay (native), English (fluent)
 mail:       muhdharris40@gmail.com
