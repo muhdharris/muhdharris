@@ -1,4 +1,9 @@
-# Harris Razainuddin
+<h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Harris Razainuddin, Network and Security Engineer, Kuala Lumpur">
+</picture>
+</h1>
 
 Network & Security Engineer in Kuala Lumpur. Firewalls, switching, and the
 troubleshooting in between.
@@ -7,20 +12,10 @@ troubleshooting in between.
 
 School, university, work, in order.
 
-```
-$ traceroute muhdharris
-
-traceroute to muhdharris (Kuala Lumpur), 6 hops max
-
- 1  sms-tengku-muhammad-faris-petra  2015-2019  SPM
- 2  universiti-malaya                2020-2021  Foundation, Physical Sciences
- 3  universiti-malaya                2021-2025  BSc Computer Systems & Networks
- 4  wevo-system                      2025       intern, Mar-Aug
- 5  innosphere-technologies          2026-      network & security engineer
- 6  homelab                          always on  two Proxmox nodes, 16 containers
-
-destination reached
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+  <img src="assets/terminal-light.svg" alt="Animated terminal running traceroute muhdharris: six hops from school, through university and two jobs, to the homelab. Destination reached.">
+</picture>
 
 ## Skills: platforms and services
 
@@ -86,7 +81,10 @@ How my home network is laid out.
 $ show topology
 ```
 
-<img src="infra-topology.svg" alt="Homelab topology: two Proxmox nodes, a Docker VM with 16 containers and an OpenMediaVault NAS VM sharing storage over NFS and SMB" width="640">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/topology-dark.svg">
+  <img src="assets/topology-light.svg" alt="Homelab topology: two Proxmox nodes, a Docker VM with 16 containers and an OpenMediaVault NAS VM sharing storage over NFS and SMB. Small red dots travel along the links." width="640">
+</picture>
 
 ## Certifications
 
