@@ -66,6 +66,7 @@ $ show ip route
 |---|---|---|
 | [homelab](https://github.com/muhdharris/homelab) | Proxmox, Docker | a two-node cluster with a Docker media stack and an OMV NAS, run as a working testbed |
 | [muhdharris.github.io](https://muhdharris.github.io) | HTML, CSS, JS | my portfolio, hand-written, no template, no framework |
+| [cidr-atlas](https://github.com/muhdharris/cidr-atlas) | JavaScript | an IPv4 and IPv6 subnet calculator that shows the bits: split, VLSM planner, aggregation, and a command-line version ([live](https://muhdharris.github.io/cidr-atlas/)) |
 | [networkscanner](https://github.com/muhdharris/networkscanner) | Python, Flask | a web interface over nmap: host scans, vulnerability scripts, scheduled scans |
 | [cinemaProject](https://github.com/muhdharris/cinemaProject) | Java | **the first coding project I wrote during my degree**, a cinema booking application |
 | [Website-in-Docker](https://github.com/muhdharris/Website-in-Docker) | JavaScript, Docker | a responsive frontend with a small backend API, served from containers |
