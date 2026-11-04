@@ -32,7 +32,7 @@ PORT      STATE   SERVICE    VERSION
 2049/tcp  open    nfs        NFS and SMB shares on an OMV NAS
 3306/tcp  open    mysql      MySQL
 8006/tcp  open    proxmox    Proxmox VE, two-node cluster
-9443/tcp  open    portainer  Docker, 16 containers
+9443/tcp  open    portainer  Docker, 20 containers
 ```
 
 ## Skills: protocols and tools
@@ -84,7 +84,7 @@ $ show topology
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/topology-dark.svg">
-  <img src="assets/topology-light.svg" alt="Homelab topology: two Proxmox nodes, a Docker VM with 16 containers and an OpenMediaVault NAS VM sharing storage over NFS and SMB. Small red dots travel along the links." width="640">
+  <img src="assets/topology-light.svg" alt="Homelab topology: two Proxmox nodes, a Docker VM with 20 containers and an OpenMediaVault NAS VM sharing storage over NFS and SMB. Small red dots travel along the links." width="640">
 </picture>
 
 ## Certifications
